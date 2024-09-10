@@ -68,7 +68,7 @@ The project is structured as follows:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/md-ashraf98/django-REST-API-Project.git
     ```
 
 2. **Navigate to the project directory:**

@@ -1,6 +1,6 @@
 # **Django Python Machine Test**
 
-## **Project Overview**
+## **Task Overview**
 
 This project is a Django-based API that manages `Client` and `Project` data, allowing you to create, list, update, and delete records for both entities. Built using Django REST Framework (DRF), it provides secured RESTful API endpoints, with authentication to protect resources.
 
